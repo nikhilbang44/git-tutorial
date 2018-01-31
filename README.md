@@ -32,7 +32,7 @@
 <tr> <td>  git branch -D <br>	 </td> <td> Delete branch (even if unmerged) (dangerous)	</td> <td>$ git branch -D other-branch</td></tr>
 <tr> <td>  git checkout -f </td> <td> 	Force checkout, discarding changes (dangerous)</td> <td>	$ git add -A && git checkout -f</td></tr>
 
-<tr> <td> git clone <URL></td> <td> 	Copy repo (incl. full history) to local disk</td> <td> 	$ git clone https://ex.co/repo.git</td></tr>
+<tr> <td> git clone <URL></td> <td> 	Copy repo (incl. full history) to local disk</td> <td> 	$ git clone </td></tr>
 <tr> <td> git pull	</td> <td> Pull in changes from remote repository	</td> <td> $ git pull</td></tr>
 <tr> <td> git branch -a	</td> <td> List all branches	</td> <td> $ git branch -a</td></tr>
 <tr> <td> git checkout <br>	</td> <td> Check out remote branch and configure for push</td> <td> 	$ git checkout fix-trademark</td></tr>
